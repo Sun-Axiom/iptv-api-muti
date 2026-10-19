@@ -33,7 +33,7 @@ CHC影迷电影HD,http://180.165.13.213:8881/rtp/233.18.204.175:5140
 浙江卫视,http://ddns.cyruslee.top:8888/rtp/239.77.0.89:5146
 湖南卫视,http://ddns.cyruslee.top:8888/rtp/239.77.1.5:5146
 北京卫视,http://ddns.cyruslee.top:8888/rtp/239.77.1.151:5146
-湖北卫视,http://ddns.cyruslee.top:8888/rtp/239.77.1.93:5146
+湖北卫视,http://ddns.cyruslee.top:8888/rtp/239.77.0.128:5146
 黑龙江卫视,http://ddns.cyruslee.top:8888/rtp/239.77.1.6:5146
 安徽卫视,http://ddns.cyruslee.top:8888/rtp/239.77.1.92:5146
 重庆卫视,http://ddns.cyruslee.top:8888/rtp/239.77.1.162:5146
